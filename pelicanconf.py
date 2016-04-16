@@ -8,6 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+THEME = "pelican-themes/tuxlite_zf"
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'

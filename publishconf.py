@@ -10,6 +10,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+THEME = "pelican-themes/tuxlite_zf"
+
 SITEURL = 'http://milos7m.github.io'
 RELATIVE_URLS = False
 
